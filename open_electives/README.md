@@ -1,16 +1,12 @@
-# open_electives
+# open_electives App
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Introduction
+ - This app is beneficial for students for electing their courses which are offered by  various departments
+ - This application also contains the syllabus of particular subjects as well as authenication
+ - The details of student and admin are maintained
+ - The courses will allocate for student based on certain criteria.
+ - The application is flexible that is, it can be updated according to our requirements
+## Technology used
+ - Flutter
+ - Dart Language
+ - Firebase
