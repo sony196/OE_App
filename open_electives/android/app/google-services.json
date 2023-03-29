@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "308853417541",
+    "project_id": "openelectives-59348",
+    "storage_bucket": "openelectives-59348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308853417541:android:b35fda9fdd20c7fd0d652c",
+        "android_client_info": {
+          "package_name": "com.example.open_electives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308853417541-h033q8ft6fbfqb41qubfm1uet8iif5vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKwZoXRbpRzaWuGOGiQmb-r5WRzA7Bil0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308853417541-h033q8ft6fbfqb41qubfm1uet8iif5vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
